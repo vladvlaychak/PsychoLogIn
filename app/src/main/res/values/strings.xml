@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PsychoLogIn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PsychoLogIn</string>
+    <string name="nav_header_subtitle">PsychoLogIn.texnical@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="lenguage">Язык</string>
+
+    <string name="menu_home">Выбрать тест</string>
+    <string name="menu_gallery">Справочник</string>
+    <string name="menu_slideshow">Результаты</string>
+    <string name="menu_test">О приложении</string>
+    <string name="url">https://mail.google.com/mail/u/2/#inbox</string>
+</resources>
